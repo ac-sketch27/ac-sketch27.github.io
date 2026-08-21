@@ -78,7 +78,7 @@ formspree-key:   https://formspree.io/f/{8-digit key}
 colors: # this is the basic theme
   text: "#ededed"
   border: "#c2c2c2"
-  link: "#7aff95"
+  link: "#000000"
   highlight: "#73a4ff"
   background: "#3b3b3b"
   light_background: "#f3f5fb"
