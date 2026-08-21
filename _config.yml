@@ -79,7 +79,7 @@ colors: # this is the basic theme
   text: "#ededed"
   border: "#c2c2c2"
   link: "#7aff95"
-  highlight: #73a4ff"
+  highlight: "#73a4ff"
   background: "#3b3b3b"
   light_background: "#f3f5fb"
 
@@ -98,7 +98,7 @@ basic theme:
   link: "#40b3a2"
   highlight: "#2a9d8f"
   background: "#f7fbfa"
-  light_background: "#f0f9f7"
+  light_background: "#4c4f4c"
   
 lemon theme:
   text: "#2d2926"
