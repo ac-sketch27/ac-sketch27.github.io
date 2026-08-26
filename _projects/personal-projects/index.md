@@ -6,6 +6,11 @@ skills:
   - Assembly
   - X
 
+main-image: /project2.jpg
+---
+
+---
+
 # Personal Projects 
 Used for the title (already generated automatically at the top)
 ## 3rd Generation Toyota 4Runner Lift Project  
