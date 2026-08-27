@@ -8,7 +8,9 @@ description:  As a design engineer for the team, there are various components I 
 
 skills: 
   - Sheet Metal Design
-  - X
+  - 3D CAD
+  - Team Collaboration
+  - 
 
 main-image: /project2.jpg
 ---
