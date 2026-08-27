@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SJSU BAJA SAE
-description:  As a design engineer for the team, there are various components I work on ranging from sheet metal design to 3D printing. I also take note of changes in design through documentation.
+description:  As a design engineer for the BAJA Spartan Racing team, there are various components I work on ranging from sheet metal design to 3D printing. I also take note of changes in design through documentation.
 
 skills: 
   - Sheet Metal Design
@@ -17,7 +17,7 @@ main-image: /project2.jpg
 ### Timeline: July 2025 - Present
 
 # SRB-25 Projects 
-{% image of SRB-25)
+{% include project1.png}
 ## Driveshaft Shielding  
 Use this for the header of each section
 ## Reinforcement Brace "Shaft Gripper"
