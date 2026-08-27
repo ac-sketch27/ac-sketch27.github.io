@@ -17,13 +17,11 @@ main-image: /project2.jpg
 ### Timeline: July 2025 - Present
 
 # SRB-25 Projects 
-Used for the title (already generated automatically at the top)
+{% image of SRB-25)
 ## Driveshaft Shielding  
 Use this for the header of each section
 ## Reinforcement Brace "Shaft Gripper"
 Use this for the header of each section
-### Header 3 
-Use this to have subsection if needed
 
 # Header 1
 
