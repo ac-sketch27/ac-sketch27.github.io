@@ -1,7 +1,10 @@
 ---
 layout: post
 title: SJSU BAJA SAE
-description:  (Description of BAJA SAE experience) .
+description:  As a design engineer for the team, there are various components I work on ranging from sheet metal design to 3D printing. I also take note of changes in design through documentation.
+Role: Drivetrain Team Member
+Timeline: Fall 2025 - Present
+
 skills: 
   - Sheet Metal Design
   - X
