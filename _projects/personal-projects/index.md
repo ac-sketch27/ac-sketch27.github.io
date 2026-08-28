@@ -17,8 +17,8 @@ main-image: /project2.jpg
 ---
 ## 3rd Generation Toyota 4Runner Lift Project
 ### Timeline: Summer 2026
-<img width="512" height="384" alt="IMG_0847" src="https://github.com/user-attachments/assets/e2b9fdb4-e8e4-4552-909e-6d6a09fc1328" /> <img width="432" height="324" alt="IMG_0813" src="https://github.com/user-attachments/assets/ce041f4f-cd7d-482b-a5ed-82c20c59a15b" /> <img width="324" height="432" alt="IMG_0739" src="https://github.com/user-attachments/assets/2e7ac572-106a-40d7-9e17-e2550abbefeb" />  
-<img width="384" height="512" alt="IMG_0897" src="https://github.com/user-attachments/assets/eaf5d44a-3923-4b83-8eec-3328911c992a" /> <img width="384" height="512" alt="IMG_0898" src="https://github.com/user-attachments/assets/a1390061-f2b5-460b-9e55-9e785e03578a" />
+<img width="512" height="384" alt="IMG_0847" src="https://github.com/user-attachments/assets/e2b9fdb4-e8e4-4552-909e-6d6a09fc1328" /> <img width="432" height="324" alt="IMG_0813" src="https://github.com/user-attachments/assets/ce041f4f-cd7d-482b-a5ed-82c20c59a15b" />   
+<img width="324" height="432" alt="IMG_0739" src="https://github.com/user-attachments/assets/2e7ac572-106a-40d7-9e17-e2550abbefeb" /> <img width="384" height="512" alt="IMG_0897" src="https://github.com/user-attachments/assets/eaf5d44a-3923-4b83-8eec-3328911c992a" /> <img width="384" height="512" alt="IMG_0898" src="https://github.com/user-attachments/assets/a1390061-f2b5-460b-9e55-9e785e03578a" />
 
 < Over summer break, I modified my own car by raising its ground clearance by **~3in** to conquer rough obstacles. This involved replacing the front struts and rear shocks including control arms. After a month and a half of rigorous assembly and wrenching, I was finally able to test my car at Hollister Hills and achieve my biggest goal of approaching the "Teeter Totter" without damaging the underbody frame.
 
