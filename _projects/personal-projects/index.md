@@ -17,8 +17,8 @@ main-image: /project2.jpg
 ---
 ## 3rd Generation Toyota 4Runner Lift Project
 ### Timeline: Summer 2026
-<img width="5712" height="4284" alt="IMG_0847" src="https://github.com/user-attachments/assets/e2b9fdb4-e8e4-4552-909e-6d6a09fc1328" /> <img width="3024" height="4032" alt="IMG_0739" src="https://github.com/user-attachments/assets/2e7ac572-106a-40d7-9e17-e2550abbefeb" /> 
-<img width="4032" height="3024" alt="IMG_0813" src="https://github.com/user-attachments/assets/ce041f4f-cd7d-482b-a5ed-82c20c59a15b" /> <img width="4284" height="5712" alt="IMG_0897" src="https://github.com/user-attachments/assets/eaf5d44a-3923-4b83-8eec-3328911c992a" /> <img width="4284" height="5712" alt="IMG_0898" src="https://github.com/user-attachments/assets/a1390061-f2b5-460b-9e55-9e785e03578a" />
+<img width="512" height="384" alt="IMG_0847" src="https://github.com/user-attachments/assets/e2b9fdb4-e8e4-4552-909e-6d6a09fc1328" /> <img width="324" height="432" alt="IMG_0739" src="https://github.com/user-attachments/assets/2e7ac572-106a-40d7-9e17-e2550abbefeb" /> 
+<img width="432" height="324" alt="IMG_0813" src="https://github.com/user-attachments/assets/ce041f4f-cd7d-482b-a5ed-82c20c59a15b" /> <img width="384" height="512" alt="IMG_0897" src="https://github.com/user-attachments/assets/eaf5d44a-3923-4b83-8eec-3328911c992a" /> <img width="384" height="512" alt="IMG_0898" src="https://github.com/user-attachments/assets/a1390061-f2b5-460b-9e55-9e785e03578a" />
 
 Over summer break, I modified my own car by raising its ground clearance by ~3in to conquer rough obstacles. This involved replacing the front struts and rear shocks including control arms. After a month and a half of rigorous assembly and wrenching, I was finally able to test my car at Hollister Hills and achieve my biggest goal of approaching the "Teeter Totter" without damaging the underbody frame.
 
@@ -32,7 +32,7 @@ While I was working as a bike mechanic, I conducted my own experiment of creatin
 ---
 ## E-Bike Conversions
 ### Timeline: 2019 - 2024
-<img width="512" height="384" alt="first ebike conversion" src="https://github.com/user-attachments/assets/17093162-cb10-4f76-bb26-aa89ace88be2" /> <img width="4284" height="5712" alt="IMG_0618" src="https://github.com/user-attachments/assets/f218eea0-d25f-42d6-a558-d953f85f25f0" />
+<img width="512" height="384" alt="first ebike conversion" src="https://github.com/user-attachments/assets/17093162-cb10-4f76-bb26-aa89ace88be2" /> <img width="384" height="512" alt="IMG_0618" src="https://github.com/user-attachments/assets/f218eea0-d25f-42d6-a558-d953f85f25f0" />
 
 Before I was able to drive, I provided my own form of transportation by integrating an electric hub motor kit and battery onto a conventional bicycle. For years, I continuously upgraded my personal ride from hub-motor to mid-drive motor installations. Having the ability to conduct this personal project saved me a lot of money and time.
 
