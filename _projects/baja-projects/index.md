@@ -20,15 +20,17 @@ main-image: /project2.jpg
 # SRB-25 Projects 
 <img width="384" height="512" alt="IMG_0462" src="https://github.com/user-attachments/assets/0d1f719e-086c-4f80-8cbb-8e99861b338b" /> <img width="384" height="512" alt="IMG_0481" src="https://github.com/user-attachments/assets/f5a47cb1-2c3f-4f86-962f-5b8af833304f" />
 
+---
 ## Driveshaft Shielding  
 <img width="512" height="384" alt="driveshaft shielding" src="https://github.com/user-attachments/assets/7a48788a-2ba4-48d3-96fa-1a47243811c1" />
 
-To adhere to BAJA SAE regulations, driveshaft(s) must be covered with acceptable PPAE (Pinch-Points and Entanglement) material. I designed and 3D Printed enclosure sections for the driveshaft to satisfy the regulations while working with other sub-teams to work out packing constraints.
+> To adhere to BAJA SAE regulations, driveshaft(s) must be covered with resilient **PPAE** (Pinch-Points and Entanglement) material. I designed and 3D Printed enclosure sections for the driveshaft to satisfy the regulations while working with other sub-teams to work out packing constraints.
 
+---
 ## Reinforcement Brace "Shaft Gripper"
 <img width="384" height="512" alt="brace 1" src="https://github.com/user-attachments/assets/d17b38ca-de09-42e8-9911-f86faf7cf8f2" /> <img width="384" height="512" alt="brace 2" src="https://github.com/user-attachments/assets/86bbe9e2-2320-42e5-ad5c-8719aa223af2" />
 
-Weeks before the 2026 BAJA SAE Oregon competition, a solution was needed for preventing the intermediate shaft of the gear-reduction box getting deformed. I designed and CNC machined a reinforcement brace that would combat this issue. It withstood the entirety of competition with no issues.
+> Weeks before the 2026 BAJA SAE Oregon competition, a solution was needed for preventing the intermediate shaft of the gear-reduction box getting deformed. I designed and CNC machined a reinforcement brace that would combat this issue. It withstood the entirety of competition with no issues.
 
 # Header 1
 
