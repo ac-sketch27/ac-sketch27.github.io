@@ -21,10 +21,12 @@ main-image: /project2.jpg
 
 ## Driveshaft Shielding  
 <img width="512" height="384" alt="driveshaft shielding" src="https://github.com/user-attachments/assets/7a48788a-2ba4-48d3-96fa-1a47243811c1" />
+
 To adhere to BAJA SAE regulations, driveshaft(s) must be covered with acceptable PPAE (Pinch-Points and Entanglement) material.
 
 ## Reinforcement Brace "Shaft Gripper"
 <img width="384" height="512" alt="brace 1" src="https://github.com/user-attachments/assets/d17b38ca-de09-42e8-9911-f86faf7cf8f2" /> <img width="384" height="512" alt="brace 2" src="https://github.com/user-attachments/assets/86bbe9e2-2320-42e5-ad5c-8719aa223af2" />
+
 Weeks before competition, a brace was needed for preventing the intermediate shaft getting deformed.
 
 # Header 1
