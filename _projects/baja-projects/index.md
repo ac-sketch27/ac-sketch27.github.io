@@ -33,3 +33,9 @@ main-image: /project2.jpg
 > Weeks before the 2026 BAJA SAE Oregon competition, a solution was needed for preventing the intermediate shaft of the gear-reduction box getting deformed. I designed and CNC machined a reinforcement brace that would combat this issue. It withstood the entirety of competition with no issues.
 
 ---
+## Seat Belt Covers
+<img width="512" height="395" alt="seat belt covers drawing" src="https://github.com/user-attachments/assets/e8144a87-751e-4211-bbbf-dbdc33a5be11" /> <img width="512" height="384" alt="seat belt covers" src="https://github.com/user-attachments/assets/c1b60d71-c596-4d32-bacb-b3a39ffb844d" /> <img width="512" height="384" alt="seat belt covers 2" src="https://github.com/user-attachments/assets/f767fe25-295a-41d6-b793-cf3b9e6ddf2f" />
+
+> These covers were made to contain excess seat belt webbing in a safe area so they don't risk unraveling loose. These parts were redesigned from a previous design to make it one whole piece instead of multiple pieces.
+
+---
