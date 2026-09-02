@@ -36,5 +36,5 @@ Remodeled an ergonomic wireless mouse for the purpose of providing increased com
 
 Improved a temperature gun for improved handling and quality. Applied surface modeling techniques to remodel the entire assembly involving the plastic coverings, PCB board, optics, buttons, trigger and batteries. This project provided me a strong foundation in surface modeling techniques.
 
-main-image: /project2.jpg
+
 ---
