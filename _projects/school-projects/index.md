@@ -27,7 +27,7 @@ Left: Bioswale | Right: Greenhouse platform
 <img width="512" height="374" alt="mouse 1" src="https://github.com/user-attachments/assets/6da606a4-7a07-4bb1-8615-e5a84b5ce7df" /> <img width="512" height="324" alt="mouse 3" src="https://github.com/user-attachments/assets/6c031c0d-85f6-46b5-a51b-df17fcc034cf" />
 <img width="362" height="512" alt="mouse 2" src="https://github.com/user-attachments/assets/4a781b6f-af27-419c-9c95-7962dbf09d3f" />
 
-Remodeled an ergonomic wireless mouse for the purpose of providing increased comfort, support and serviceability to accommodate a wider ranger of hand sizes. Applied surface modeling techniques to design the concept while performing FEA on the clickers to validate and justify choosing the materials: ABS PC, copper and stainless steel, to prove its capability.
+Remodeled an ergonomic wireless mouse for the purpose of providing increased comfort, support and serviceability to accommodate a wider ranger of hand sizes. Applied surface modeling techniques to design the concept while performing FEA on the clickers to validate and justify using ABS PC. 
 
 ---
 ## Reverse Engineered Temperature Gun
