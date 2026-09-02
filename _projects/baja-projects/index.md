@@ -24,7 +24,7 @@ main-image: /project2.jpg
 ## Driveshaft Shielding  
 <img width="512" height="384" alt="driveshaft shielding" src="https://github.com/user-attachments/assets/7a48788a-2ba4-48d3-96fa-1a47243811c1" />
 
-> To adhere to BAJA SAE regulations, driveshaft(s) must be covered with resilient **PPAE** (Pinch-Points and Entanglement) material. I designed and 3D Printed enclosure sections for the driveshaft to satisfy the regulations while working with other sub-teams to work out packing constraints.
+> To adhere to BAJA SAE regulations, driveshaft(s) must be covered with resilient **PPAE** (Pinch-Points and Entanglement) material. I designed and 3D Printed enclosure sections for the driveshaft to satisfy the regulations while cooperating with other sub-teams to work out packing constraints.
 
 ---
 ## Reinforcement Brace "Shaft Gripper"
