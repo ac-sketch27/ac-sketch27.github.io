@@ -15,9 +15,8 @@ title: Al C's Portfolio # This is what shows up in the tab of the browser
 name: Al Cornblatt
 headline: Mechanical Engineering Student at San Jose State University
 description: >- # dont remove this line. this will ignore all new lines until the next section
-Hi! My name is Al. I am a mechanical engineering student and I like to build, modify and use my own things! 
-As far as I can remember, I’ve always liked vehicles as a kid. Whether it was watching trains on train tracks, sightseeing boats on water or watching cars race each other on a race track or go off-roading. 
-That’s probably what drove me into mechanical engineering. For the most part, I like learning how things work! 
+Hi! My name is Al. I am a mechanical engineering student and I like to build, modify and use my own things! As far as I can remember, I’ve always liked vehicles as a kid. Whether it was watching trains on train tracks, sightseeing boats on water or watching cars race each other on a race track or go off-roading. That’s probably what drove me into mechanical engineering. For the most part, I like learning how things work! 
+
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
