@@ -15,10 +15,10 @@ main-image: /sonos.png
 
 ---
 ## Engineering Abroad 2024-2025
+### Timeline: Summer 2025
 <img width="384" height="512" alt="bioswale" src="https://github.com/user-attachments/assets/f47baa0a-c177-4708-b5fb-97330216cedf" /> <img width="512" height="384" alt="greenhouse platform" src="https://github.com/user-attachments/assets/06731f6e-14e5-4bb0-bd7b-f2427f9961bd" />:
 
-> During Summer 2025, I traveled abroad with a group of delegates to volunteer abroad. This experience involved contributing to a village located in Costa Rica. The projects done here were to provide clean water for plants and improved coffee production. Alongside the projects, this experience showed me the picture of sustainability.
-
+> I traveled abroad with a group of delegates to volunteer abroad. This experience involved contributing to a village located in Costa Rica. The projects done here were to provide clean water for plants and improved coffee production. Alongside the projects, this experience showed me the picture of sustainability.
 Left: Bioswale | Right: Greenhouse platform
 
 ---
@@ -35,6 +35,5 @@ Left: Bioswale | Right: Greenhouse platform
 <img width="512" height="330" alt="temperature gun 1" src="https://github.com/user-attachments/assets/238db070-1073-4b7a-ac9b-c92b5b19e099" /> <img width="512" height="330" alt="temperature gun 2" src="https://github.com/user-attachments/assets/6e6a3305-85f9-42dc-a2f2-821ee56d8567" />
 
 > Improved a temperature gun for improved handling and quality. Applied surface modeling techniques to remodel the entire assembly involving the plastic coverings, PCB board, optics, buttons, trigger and batteries. This project provided me a strong foundation in surface modeling techniques.
-
 
 ---
