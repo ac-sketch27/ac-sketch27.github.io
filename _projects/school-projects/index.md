@@ -14,8 +14,8 @@ main-image: /sonos.png
 # School Projects 
 
 ---
-## Engineering Abroad 2024-2025  
-<img width="384" height="512" alt="bioswale" src="https://github.com/user-attachments/assets/f47baa0a-c177-4708-b5fb-97330216cedf" /> <img width="512" height="384" alt="greenhouse platform" src="https://github.com/user-attachments/assets/06731f6e-14e5-4bb0-bd7b-f2427f9961bd" />:
+## Engineering Abroad 2024-2025 :
+<img width="384" height="512" alt="bioswale" src="https://github.com/user-attachments/assets/f47baa0a-c177-4708-b5fb-97330216cedf" /> <img width="512" height="384" alt="greenhouse platform" src="https://github.com/user-attachments/assets/06731f6e-14e5-4bb0-bd7b-f2427f9961bd" />
 
 > During Summer 2025, I traveled abroad with a group of delegates to volunteer abroad. This experience involved contributing to a village located in Costa Rica. The projects done here were to provide clean water for plants and improved coffee production. Alongside the projects, this experience showed me the picture of sustainability.
 
