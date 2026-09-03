@@ -5,6 +5,7 @@ description: List of school projects done through classes.
 skills: 
   - Sustainability
   - 3D CAD
+  - Finite Element Analysis
 
 main-image: /sonos.png
 ---
