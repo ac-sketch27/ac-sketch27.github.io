@@ -82,7 +82,7 @@ colors: # this is the basic theme
   link: "#c9c9c9"
   highlight: "#73a4ff"
   background: "#171717"
-  light_background: "#FAFAFA"
+  light_background: "#707070"
 
 # A few examples. 
 basic theme:
