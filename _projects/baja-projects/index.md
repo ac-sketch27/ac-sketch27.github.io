@@ -10,7 +10,7 @@ skills:
   - Team Collaboration
   - Lathe/Mill/CNC Machining
 
-main-image: /DSC_9843 edit.JPG
+main-image: /DSC_9843_edit.JPG
 ---
 
 ---
