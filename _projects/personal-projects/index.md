@@ -7,7 +7,7 @@ skills:
   - Automotive Service
   - Bicycle Repair
 
-main-image: /project2.jpg
+main-image: /IMG_0618_edit.png
 ---
 
 ---
