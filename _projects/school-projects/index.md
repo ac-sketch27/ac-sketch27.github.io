@@ -7,7 +7,7 @@ skills:
   - 3D CAD
   - Finite Element Analysis
 
-main-image: /sonos.png
+main-image: /temperature_gun_2.png
 ---
 
 ---
