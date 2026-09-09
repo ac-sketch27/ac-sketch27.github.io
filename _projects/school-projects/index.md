@@ -1,7 +1,7 @@
 ---
 layout: post
 title: School Projects
-description: List of school projects done through classes. 
+description: School projects done through classes varying from volunteering to CAD design. 
 skills: 
   - Sustainability
   - 3D CAD
