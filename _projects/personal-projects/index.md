@@ -29,6 +29,13 @@ main-image: /IMG_0618_edit.png
 > While I was working as a bike mechanic, I conducted my own experiment of creating my own battery for my electric bike. This setup consisted of wiring **21700 battery cells** in a **60V 15Ah** configuration with a **BMS (Battery Management System)** for safety. The goal of this project was to achieve **increased range and power**.
 
 ---
+## Internal Gear Hub Wheel Assembly
+### Timeline: Summer 2025
+<img width="384" height="512" alt="internal gear hub 1" src="https://github.com/user-attachments/assets/a91b70e8-4368-46c7-98fa-6d5ddf0771c1" /> <img width="384" height="512" alt="internal gear hub 2" src="https://github.com/user-attachments/assets/b7225f1c-242a-4ad8-89a5-e0c8e95bd035" />
+
+> Alongside my battery project, I assembled my own wheel with a **3-speed internal shifting mechanism** for my electric bike to achieve improved reliability and efficiency.
+
+---
 ## E-Bike Conversions
 ### Timeline: 2019 - 2024
 <img width="512" height="384" alt="first ebike conversion" src="https://github.com/user-attachments/assets/17093162-cb10-4f76-bb26-aa89ace88be2" /> <img width="384" height="512" alt="IMG_0618" src="https://github.com/user-attachments/assets/f218eea0-d25f-42d6-a558-d953f85f25f0" />
