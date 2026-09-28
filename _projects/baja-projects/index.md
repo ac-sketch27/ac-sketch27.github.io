@@ -30,7 +30,7 @@ main-image: /DSC_9843_edit.jpg
 ## Reinforcement Brace "Shaft Gripper"
 <img width="384" height="512" alt="brace 1" src="https://github.com/user-attachments/assets/d17b38ca-de09-42e8-9911-f86faf7cf8f2" /> <img width="384" height="512" alt="brace 2" src="https://github.com/user-attachments/assets/86bbe9e2-2320-42e5-ad5c-8719aa223af2" />
 
-> Days before the 2026 BAJA SAE Oregon competition, a solution was needed for preventing the intermediate shaft of the gear-reduction box getting deformed. I designed and CNC machined a reinforcement brace that would combat this issue. After it was installed, it withstood the entirety of competition with no issues.
+> Days before the 2026 BAJA SAE Oregon competition, a solution was needed for preventing the intermediate shaft of the gear-reduction box getting deformed. With careful consideration of the bearing tolerances, I designed and CNC machined a reinforcement brace that would combat this issue. After it was installed, it withstood the entirety of competition with no issues.
 
 ---
 ## Seat Belt Covers
