@@ -35,6 +35,6 @@ Left: Bioswale | Right: Greenhouse platform
 ### Timeline: Fall 2024
 <img width="512" height="330" alt="temperature gun 1" src="https://github.com/user-attachments/assets/238db070-1073-4b7a-ac9b-c92b5b19e099" /> <img width="512" height="330" alt="temperature gun 2" src="https://github.com/user-attachments/assets/6e6a3305-85f9-42dc-a2f2-821ee56d8567" />
 
-> Improved a temperature gun for **improved handling and quality**. Applied **surface modeling** techniques to remodel the entire assembly involving the **plastic coverings, PCB board, optics, buttons, trigger and batteries**. This project provided me a strong foundation in surface modeling techniques.
+> Revamped an existing temperature gun for **improved handling and quality**. Applied **surface modeling** techniques to remodel the entire assembly involving the **plastic coverings, PCB board, optics, buttons, trigger and batteries**. This project provided me a strong foundation in surface modeling techniques.
 
 ---
